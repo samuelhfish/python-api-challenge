@@ -1,5 +1,8 @@
 # python-api-challenge
-Module 6 Challenge - Python &amp; APIs
+Module 6 Challenge - Python and APIs
 
+VacationPy solution located here: VacationPy/VacationPy_SamCode.ipynb
 
-![](./WeatherPy/output_data/Fig1_Temp_Lat.png)
+WeatherPy solution located heere: WeatherPy/main.ipynb
+
+Scatter plots, regression and CSV located here: WeatherPy/output_data
